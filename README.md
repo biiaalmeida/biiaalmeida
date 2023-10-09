@@ -7,8 +7,19 @@ Sou egressa do IFPB onde atuei em duas equipes de robótica, o que fez com que e
 ## Preferências em Linguagens de Programação
 
 Tenho mais familiaridade com:
+
 ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/436862ff-5001-4832-8958-c740d34ff29a)
-![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/03640fce-b3ee-421e-9faa-e814017b904d)
+![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/aa6df4d7-6746-480a-ad0a-a940be4c8663)
+
+Não costumo urtilizar mas tenho algum conhecimento em: 
+
+![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/cdccb319-9316-45a5-95c8-14e9da4207a9)
+![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/b4eb0132-605c-4258-a306-e7c9c58bfe3c)
+
+
+
+
+
 
 
 
