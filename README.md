@@ -18,9 +18,9 @@ Não costumo utilizar mas tenho algum conhecimento em:
 
 ## Ambientes de desenvolvimento
 
-O principal editor que utilizo é o ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/62284cda-2564-4e38-8440-396bcdd7af6e)
+O principal editor que utilizo é o  ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/62284cda-2564-4e38-8440-396bcdd7af6e)
 
-Também utilizo a própria IDE Arduino para programar em ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/e6931f31-836f-4033-85f1-c9046de0dfde)
+Também utilizo a própria IDE Arduino para programar em  ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/e6931f31-836f-4033-85f1-c9046de0dfde)
 
 
 
