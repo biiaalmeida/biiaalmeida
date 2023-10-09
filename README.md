@@ -16,6 +16,13 @@ Não costumo urtilizar mas tenho algum conhecimento em:
 ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/cdccb319-9316-45a5-95c8-14e9da4207a9)
 ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/b4eb0132-605c-4258-a306-e7c9c58bfe3c)
 
+## Ambientes de desenvolvimento
+
+O principal editor que utilizo é o ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/62284cda-2564-4e38-8440-396bcdd7af6e). 
+
+Também utilizo a própria IDE Arduino para programar em ![image](https://github.com/biiaalmeida/biiaalmeida/assets/112524121/e6931f31-836f-4033-85f1-c9046de0dfde).
+
+
 
 
 
