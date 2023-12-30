@@ -1,7 +1,5 @@
 ### Olá, me chamo Ana Beatriz Almeida 
 
-Explore o código, sinta a vibe binária e mergulhe no repositório da inovação. Bem-vindo ao meu espaço digital, onde cada commit é uma história em evolução!
-
 Sou egressa do IFPB onde atuei em duas equipes de robótica, o que fez com que eu me interessase cada vez mais no universo da tecnologia. Atualmente estou no segundo período de BTI na UFERSA. 
 
 ## Preferências em Linguagens de Programação
