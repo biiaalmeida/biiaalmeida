@@ -1,6 +1,6 @@
 ### Olá, me chamo Ana Beatriz Almeida 
 
-Sou egressa do IFPB onde atuei em duas equipes de robótica, o que fez com que eu me interessase cada vez mais no universo da tecnologia. Atualmente estou no segundo período de BTI na UFERSA. 
+Sou egressa do IFPB onde atuei em duas equipes de robótica, o que fez com que eu me interessase cada vez mais no universo da tecnologia. Atualmente estou no quarto período de BTI na UFERSA. 
 
 ## Preferências em Linguagens de Programação
 
